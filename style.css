@@ -73,11 +73,12 @@ section-clara{
 .hero-principal{
     padding: 3rem;
     }
+
 .hero-imagem-programador{
     width: 200px;
     height: 200px;
+    margin: 30px;
     border-radius: 50%;
-    margin: 20px;
 }
 .hero-principal h2{
     font-size: 1.5rem;
